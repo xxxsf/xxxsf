@@ -22,3 +22,15 @@
 - 🧪 专利：曾拥有实用新型专利 3 项
 - 🎨 荣誉：荣获国家级、省级设计类奖项 8 项以上
 - 🌟 核心作者: [quark design](https://github.com/hellof2e/quark-design)、[quark core](https://github.com/hellof2e/quark-core)
+
+
+## My favourite Tool
+If you’re tired, why not play a little piano?
+
+An interactive piano keyboard for Quarkc. Supports custom sounds,
+touch/click/keyboard events, and fully auto play song.
+
+https://xxxsf.github.io/piano/
+
+![1774490131607](https://github.com/user-attachments/assets/e63fa5c7-ffd5-47f2-8f8f-e0d1674f480e)
+
