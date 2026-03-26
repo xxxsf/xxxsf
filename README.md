@@ -10,6 +10,7 @@
 - 🏆 Winner: SegmentFault Blockchain Hackathon
 - 🧪 Patents: 3 utility model patents
 - 🎨 Awards: Over 8 national & provincial design awards
+- 🌟 Core: [quark design](https://github.com/hellof2e/quark-design)、[quark core](https://github.com/hellof2e/quark-core)
 
 ## 你好 👋，我是 Ethan，曾是设计师，现为全栈开发工程师
 ### 👨‍💻 关于我
@@ -20,3 +21,4 @@
 - 🏆 获奖：SegmentFault 区块链黑客马拉松冠军
 - 🧪 专利：曾拥有实用新型专利 3 项
 - 🎨 荣誉：荣获国家级、省级设计类奖项 8 项以上
+- 🌟 核心作者: [quark design](https://github.com/hellof2e/quark-design)、[quark core](https://github.com/hellof2e/quark-core)
